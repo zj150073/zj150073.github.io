@@ -1,1 +1,0 @@
-import{i as a}from"./index-CQT2hjpo.js";const t=t=>a({method:"get",url:"/get-map-info",params:t},{token:"",apiPrefix:""}),e=t=>a({method:"post",url:"https://run.mocky.io/v3/3aa761d7-b0b3-4a03-96b3-6168d4f7467b",data:t},{token:"",apiPrefix:"",axiosDefault:{headers:{"content-Type":"multipart/form-data"}}});export{e as f,t as m};

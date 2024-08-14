@@ -1,0 +1,1 @@
+import{useColumns as a}from"./columns-B9UYx70Z.js";import{d as s,a1 as t,o,f as n,D as e}from"./@vue-CFXrvzpc.js";const r=s({__name:"index",setup(s){const{columns:r,tableData:u}=a();return(a,s)=>{const m=t("pure-table");return o(),n(m,{data:e(u),columns:e(r)},null,8,["data","columns"])}}});export{r as _};
