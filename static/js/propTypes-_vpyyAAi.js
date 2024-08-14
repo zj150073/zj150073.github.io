@@ -1,0 +1,1 @@
+import{U as t,_ as e}from"./vue-types-CJKQa7AW.js";const o=t({func:void 0,bool:void 0,string:void 0,number:void 0,object:void 0,integer:void 0});class i extends o{static get style(){return e("style",{type:[String,Object]})}static get VNodeChild(){return e("VNodeChild",{type:void 0})}}export{i as p};

@@ -1,0 +1,1 @@
+import{t as a}from"./data-C4dpkQ-R.js";import{d as e,a1 as s,o as t,f as o,D as r}from"./@vue-CFXrvzpc.js";const p=e({__name:"customIndex",setup(e){const p=[{type:"index",index:a=>2*a},{label:"日期",prop:"date"},{label:"姓名",prop:"name"},{label:"地址",prop:"address"}];return(e,n)=>{const d=s("pure-table");return t(),o(d,{data:r(a),columns:p},null,8,["data"])}}});export{p as _};

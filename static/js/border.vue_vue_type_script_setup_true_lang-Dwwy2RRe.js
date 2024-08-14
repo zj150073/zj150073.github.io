@@ -1,0 +1,1 @@
+import{t as a}from"./data-C4dpkQ-R.js";import{d as r,a1 as e,o as s,f as o,D as t}from"./@vue-CFXrvzpc.js";const p=r({__name:"border",setup(r){const p=[{label:"日期",prop:"date"},{label:"姓名",prop:"name"},{label:"地址",prop:"address"}];return(r,l)=>{const d=e("pure-table");return s(),o(d,{data:t(a),columns:p,border:""},null,8,["data"])}}});export{p as _};

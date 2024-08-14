@@ -1,1 +1,0 @@
-import{t as e}from"./data-RmShT9iF.js";const n=Vue.defineComponent({__name:"customIndex",setup(n){const o=[{type:"index",index:e=>2*e},{label:"日期",prop:"date"},{label:"姓名",prop:"name"},{label:"地址",prop:"address"}];return(n,t)=>{const a=Vue.resolveComponent("pure-table");return Vue.openBlock(),Vue.createBlock(a,{data:Vue.unref(e),columns:o},null,8,["data"])}}});export{n as _};

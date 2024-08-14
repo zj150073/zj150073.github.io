@@ -1,1 +1,0 @@
-import{useColumns as e}from"./columns-D579-sho.js";const n=Vue.defineComponent({__name:"index",setup(n){const{columns:o,tableData:u}=e();return(e,n)=>{const t=Vue.resolveComponent("pure-table");return Vue.openBlock(),Vue.createBlock(t,{data:Vue.unref(u),columns:Vue.unref(o)},null,8,["data","columns"])}}});export{n as _};
