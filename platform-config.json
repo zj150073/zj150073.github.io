@@ -1,6 +1,6 @@
 {
-  "Version": "5.7.0",
-  "Title": "PureAdmin",
+  "Version": "0.0.1",
+  "Title": "前端架构",
   "FixedHeader": true,
   "HiddenSideBar": false,
   "MultiTagsCache": false,
@@ -22,14 +22,6 @@
   "MenuArrowIconNoTransition": false,
   "CachingAsyncRoutes": false,
   "TooltipEffect": "light",
-  "ResponsiveStorageNameSpace": "responsive-",
-  "MenuSearchHistory": 6,
-  "MapConfigure": {
-    "amapKey": "adc139d56406f3844c8f1cf1c6b65c41",
-    "options": {
-      "resizeEnable": true,
-      "center": [113.6401, 34.72468],
-      "zoom": 12
-    }
-  }
+  "ResponsiveStorageNameSpace": "ajmer-",
+  "MenuSearchHistory": 6
 }

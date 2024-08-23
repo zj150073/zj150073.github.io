@@ -1,1 +1,0 @@
-import{useColumns as s}from"./columns-Bq36DBmg.js";import{d as a,r,a1 as e,o,f as t,D as n}from"./@vue-CFXrvzpc.js";const u=a({__name:"index",setup(a){const u=r(),{columns:m,dataList:c}=s(u);return(s,a)=>{const r=e("pure-table");return o(),t(r,{ref_key:"waterRef",ref:u,"row-key":"id",border:"",data:n(c),columns:n(m)},null,8,["data","columns"])}}});export{u as _};
