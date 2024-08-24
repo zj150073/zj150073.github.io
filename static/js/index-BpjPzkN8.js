@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vueexport-helper-BCo6x5W8.js";import{o as r,c as o}from"./@vue-BKBLuHe7.js";const p=e({},[["render",function(e,p){return r(),o("div",null,"vueTippy2")}]]);export{p as default};
