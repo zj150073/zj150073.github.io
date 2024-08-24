@@ -1,1 +1,0 @@
-import{d as t,ai as a,$ as e,h as i}from"./@vue-uYjjPr_8.js";const o=t({name:"Motion",props:{delay:{type:Number,default:50}},render(){const{delay:t}=this,o=a("motion");return e(i("div",{},{default:()=>[this.$slots.default()]}),[[o,{initial:{opacity:0,y:100},enter:{opacity:1,y:0,transition:{delay:t}}}]])}});export{o as M};
