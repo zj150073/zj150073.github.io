@@ -1,7 +1,7 @@
 {
   "Version": "0.0.1",
   "Title": "前端架构",
-  "FixedHeader": true,
+  "FixedHeader": false,
   "HiddenSideBar": false,
   "MultiTagsCache": false,
   "KeepAlive": true,
@@ -14,6 +14,7 @@
   "Weak": false,
   "HideTabs": false,
   "HideFooter": false,
+  "FixedFooter": false,
   "Stretch": false,
   "SidebarStatus": true,
   "EpThemeColor": "#409EFF",
@@ -23,5 +24,6 @@
   "CachingAsyncRoutes": false,
   "TooltipEffect": "light",
   "ResponsiveStorageNameSpace": "ajmer-",
-  "MenuSearchHistory": 6
+  "MenuSearchHistory": 6,
+  "MaxTagsLevel": 10
 }

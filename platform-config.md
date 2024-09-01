@@ -28,6 +28,8 @@
   "HideTabs": false,
   <!-- 是否隐藏页脚 -->
   "HideFooter": false,
+  <!-- 页脚是否固定在底部 -->
+  "FixedFooter": false,
   <!-- 是否显示logo -->
   "ShowLogo": true,
   <!-- 标签页风格（smart 灵动模式、card 卡片模式） -->
@@ -52,5 +54,7 @@
   "ResponsiveStorageNameSpace": "ajmer-",
   <!-- 菜单搜索历史的最大条目 -->
   "MenuSearchHistory": 6,
+  <!-- tab最大数量 -->
+  "MaxTagsLevel": 6,
 }
 ```
