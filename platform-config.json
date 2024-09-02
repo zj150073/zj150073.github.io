@@ -1,7 +1,7 @@
 {
   "Version": "0.0.1",
   "Title": "前端架构",
-  "FixedHeader": false,
+  "FixedHeader": true,
   "HiddenSideBar": false,
   "MultiTagsCache": false,
   "KeepAlive": true,

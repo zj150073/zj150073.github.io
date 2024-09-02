@@ -1,0 +1,1 @@
+import{u as c}from"./vue-router-BmKTVaVc.js";import{f as s}from"./index-CJijS0Z5.js";const f=Vue.defineComponent({name:"Redirect",__name:"redirect",setup(u){const{currentRoute:r,replace:t}=c(),{params:o,query:n}=s(r),{path:e}=o,a=Array.isArray(e)?e.join("/"):e;return t({path:"/"+a,query:n}),(p,m)=>(Vue.openBlock(),Vue.createElementBlock("div"))}});export{f as default};
