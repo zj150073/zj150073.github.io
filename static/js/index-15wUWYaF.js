@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vueexport-helper-DlAUqK2U.js";const c={},o={class:"home"};function t(_,n){return Vue.openBlock(),Vue.createElementBlock("div",o,"首页")}const r=e(c,[["render",t],["__scopeId","data-v-e9341690"]]);export{r as default};

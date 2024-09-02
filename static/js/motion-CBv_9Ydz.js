@@ -1,1 +1,0 @@
-import{K as o}from"./index-CSbxP2D4.js";const n=o({name:"Motion",props:{delay:{type:Number,default:50}},render(){const{delay:t}=this,e=Vue.resolveDirective("motion");return Vue.withDirectives(Vue.h("div",{},{default:()=>[this.$slots.default()]}),[[e,{initial:{opacity:0,y:100},enter:{opacity:1,y:0,transition:{delay:t}}}]])}});export{n as M};
