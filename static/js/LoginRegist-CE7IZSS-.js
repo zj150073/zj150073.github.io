@@ -1,1 +1,0 @@
-import{_ as o}from"./LoginRegist.vuevuetypescriptsetuptruelang-D9CyjcjC.js";import"./base-B4sc1cqL.js";import"./index-Bz4bpjPO.js";import"./verifyCode-Brj6phF0.js";import"./use-form-item-D3aFCT8Y.js";import"./el-badge-pTzQMbTX.js";import"./el-input-CmUqXnaM.js";import"./el-button-CGSPrjgL.js";import"./motion-C_DkfFZW.js";export{o as default};
