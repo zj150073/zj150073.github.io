@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vueexport-helper-DlAUqK2U.js";import{c as o,o as c}from"./index-CANdKV4z.js";const t={},s={class:"home"};function r(_,n){return c(),o("div",s,"首页")}const f=e(t,[["render",r],["__scopeId","data-v-e9341690"]]);export{f as default};
