@@ -10,7 +10,7 @@
   "grey": false,
   "weak": false,
   "hideTabs": false,
-  "hideFooter": false,
+  "hideFooter": true,
   "fixedHeader": true,
   "fixedFooter": false,
   "showLogo": true,
