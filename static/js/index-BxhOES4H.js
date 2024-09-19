@@ -1,1 +1,0 @@
-import{d as a,n as l,r,o as s,c,b as u,h as p,f as _,t as i,u as m}from"./index-Bny12Suw.js";const v=a({__name:"index",setup(d){let{controlFullScreen:t,fullScreen:e}=l();const n=()=>{t(!e.value)};return(f,x)=>{const o=r("el-button");return s(),c("div",null,[u(o,{type:"primary",onClick:n},{default:p(()=>[_(i(m(e)?"退出全屏":"全屏"),1)]),_:1})])}}});export{v as default};
