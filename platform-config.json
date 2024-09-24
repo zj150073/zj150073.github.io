@@ -22,7 +22,6 @@
   "keepAlive": true,
   "cachingAsyncRoutes": true,
   "tooltipEffect": "light",
-  "menuSearchHistory": 6,
   "maxTagsLevel": 10,
   "title": "前端架构"
 }
