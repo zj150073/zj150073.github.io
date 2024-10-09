@@ -12,6 +12,7 @@
   "hideTabs": false,
   "hideFooter": true,
   "fixedHeader": true,
+  "showParent": true,
   "fixedFooter": false,
   "showLogo": true,
   "showModel": "smart",
