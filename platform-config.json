@@ -12,6 +12,7 @@
   "hideTabs": false,
   "hideFooter": true,
   "fixedHeader": true,
+  "fillItup": true,
   "showParent": true,
   "fixedFooter": false,
   "showLogo": true,

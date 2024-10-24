@@ -1,1 +1,0 @@
-import{_ as o}from"./LoginRegist.vuevuetypescriptsetuptruelang-Dd5zjHvy.js";import"./motion-CXMfbc3o.js";import"./index-DpwJIqfb.js";import"./message-DXQx_-lA.js";import"./verifyCode-B84Gz6dk.js";export{o as default};
