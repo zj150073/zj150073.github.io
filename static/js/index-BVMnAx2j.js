@@ -1,1 +1,0 @@
-import{d as a,n as s,r,o as l,c,b as u,h as d,f as i,t as p,u as _}from"./index-WCybxo84.js";const h=a({__name:"index",setup(m){let{controlMenuHead:t,hiddenSideBar:e}=s();const n=()=>{t(!e.value)};return(f,x)=>{const o=r("el-button");return l(),c("div",null,[u(o,{type:"primary",onClick:n},{default:d(()=>[i(p(_(e)?"显示菜单和头部":"隐藏菜单和头部"),1)]),_:1})])}}});export{h as default};
