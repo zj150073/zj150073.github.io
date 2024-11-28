@@ -1,0 +1,1 @@
+import{_ as d,o as s,c as n,e as o}from"./index-DygeQ5pz.js";const r={};function t(c,e){return s(),n("div",null,e[0]||(e[0]=[o("div",{class:"dddddd"},"菜单管理",-1)]))}const l=d(r,[["render",t]]);export{l as default};
