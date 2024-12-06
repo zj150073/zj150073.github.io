@@ -1,0 +1,1 @@
+import{aI as e}from"./index-BqkmjK8c.js";const s=t=>e({method:"post",url:"/user",data:t},{token:"",apiPrefix:""}),o=t=>e({method:"post",url:"/dept",data:t},{token:"",apiPrefix:""});export{s as a,o as g};
