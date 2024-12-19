@@ -1,0 +1,1 @@
+import{d as s,l as a,r as l,o as p,c as u,b as r,u as i,p as d}from"./index-Bgkx_9zZ.js";const m={class:"dark:text-white"},V=s({name:"pluginsVueTippy1",__name:"index",setup(c){const e=a("");return(_,n)=>{const o=l("el-input");return p(),u("div",m,[r(o,{modelValue:i(e),"onUpdate:modelValue":n[0]||(n[0]=t=>d(e)?e.value=t:null)},null,8,["modelValue"])])}}});export{V as default};
