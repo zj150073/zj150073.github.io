@@ -23,6 +23,6 @@
   "keepAlive": false,
   "cachingAsyncRoutes": false,
   "tooltipEffect": "light",
-  "maxTagsLevel": 10,
+  "maxTagsLevel": 5,
   "title": "前端架构"
 }
