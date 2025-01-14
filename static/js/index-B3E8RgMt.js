@@ -1,1 +1,0 @@
-import{r as a,o as s,c as r,b as c,w as l,g as i,s as p}from"./index-BWPJTteW.js";const m={__name:"index",setup(u){const{proxy:e}=p(),o=()=>{e.$loading.show(),setTimeout(()=>{e.$loading.hide()},3e3)};return(_,t)=>{const n=a("el-button");return s(),r("div",null,[c(n,{type:"primary",onClick:o},{default:l(()=>t[0]||(t[0]=[i("获取数据")])),_:1})])}}};export{m as default};
