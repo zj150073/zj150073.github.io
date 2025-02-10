@@ -1,1 +1,0 @@
-import{d as s,h as a,r as l,c as u,o as p,b as r,U as i,u as d}from"./index-Bib8-SXE.js";const m={class:"dark:text-white"},V=s({name:"pluginsVueTippy1",__name:"index",setup(c){const e=a("");return(_,n)=>{const o=l("el-input");return p(),u("div",m,[r(o,{modelValue:d(e),"onUpdate:modelValue":n[0]||(n[0]=t=>i(e)?e.value=t:null)},null,8,["modelValue"])])}}});export{V as default};
