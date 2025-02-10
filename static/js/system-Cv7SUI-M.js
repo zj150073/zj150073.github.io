@@ -1,1 +1,0 @@
-import{aN as e}from"./index-D4Zrf1Ps.js";const s=t=>e({method:"post",url:"/user",data:t},{token:"",apiPrefix:""}),o=t=>e({method:"post",url:"/dept",data:t},{token:"",apiPrefix:""});export{s as a,o as g};
