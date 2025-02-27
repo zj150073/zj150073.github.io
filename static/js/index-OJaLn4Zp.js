@@ -1,1 +1,0 @@
-import{d as n}from"./check-CIQVCvCT.js";import{r as o,c,o as r,b as t,u as a}from"./index-qmMm4T_A.js";const _={__name:"index",setup(s){return(f,i)=>{const e=o("AjmerIconifyIconOffline");return r(),c("div",null,[t(e,{icon:a(n)},null,8,["icon"])])}}};export{_ as default};

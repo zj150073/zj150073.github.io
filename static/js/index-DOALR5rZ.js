@@ -1,1 +1,0 @@
-import{d as s,h as a,r as l,c as u,o as p,b as r,t as i,u as d}from"./index-qmMm4T_A.js";const m={class:"dark:text-white"},V=s({name:"pluginsVueTippy1",__name:"index",setup(c){const e=a("");return(_,n)=>{const t=l("el-input");return p(),u("div",m,[r(t,{modelValue:d(e),"onUpdate:modelValue":n[0]||(n[0]=o=>i(e)?e.value=o:null)},null,8,["modelValue"])])}}});export{V as default};
