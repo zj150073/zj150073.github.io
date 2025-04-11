@@ -1,1 +1,0 @@
-import{_ as e,r as o,c,o as t,b as r}from"./index-Dx5g21qC.js";const s={};function a(i,_){const n=o("AjmerIconifyIconOnline");return t(),c("div",null,[r(n,{icon:"typcn:adjust-brightness"})])}const f=e(s,[["render",a]]);export{f as default};
