@@ -1,0 +1,1 @@
+import{_ as o,r,c as n,o as s,b as a,w as c,g as _}from"./index-BPiJh_ac.js";const f={};function m(p,e){const t=r("AjmerText");return s(),n("div",null,[a(t,{tippyProps:{offset:[0,-10],theme:"1"}},{default:c(()=>e[0]||(e[0]=[_(" 文字 ")])),_:1})])}const l=o(f,[["render",m]]);export{l as default};
