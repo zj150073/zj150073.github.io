@@ -1,0 +1,1 @@
+import{_ as o,r as n,c as r,o as s,b as a,w as c,g as _}from"./index-CMsPxZ_K.js";const p={};function d(l,e){const t=n("AjmerText");return s(),r("div",null,[a(t,{style:{width:"50px"},tippyProps:{content:"关闭配置",placement:"bottom-start",zIndex:41e3}},{default:c(()=>e[0]||(e[0]=[_(" 在文本超过视图或最大宽度设置时展示省略符 ")])),_:1,__:[0]})])}const x=o(p,[["render",d]]);export{x as default};

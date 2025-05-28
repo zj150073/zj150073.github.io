@@ -1,0 +1,1 @@
+import{_ as d,c as s,o as n,e as o}from"./index-CMsPxZ_K.js";const r={};function t(c,e){return n(),s("div",null,e[0]||(e[0]=[o("div",{class:"dddddd"},"菜单管理",-1)]))}const l=d(r,[["render",t]]);export{l as default};
