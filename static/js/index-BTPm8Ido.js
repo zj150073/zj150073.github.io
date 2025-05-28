@@ -1,1 +1,0 @@
-import{_ as o,r as n,c as r,o as s,b as t}from"./index-BPiJh_ac.js";const c={};function a(_,p){const e=n("AjmerTypeit");return s(),r("div",null,[t(e,{options:{strings:"文字动画组件",cursor:!1,speed:100}})])}const l=o(c,[["render",a]]);export{l as default};

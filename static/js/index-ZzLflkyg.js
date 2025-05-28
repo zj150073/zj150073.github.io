@@ -1,1 +1,0 @@
-import{d as n,h as s,V as a,r,c as l,o as u,b as c,w as _,g as f}from"./index-BPiJh_ac.js";const m=n({__name:"index",setup(d){const e=s(null);return a(e,()=>{alert("点击了指定元素外")}),(p,t)=>{const o=r("el-button");return u(),l("div",null,[c(o,{ref_key:"buttonRef",ref:e},{default:_(()=>t[0]||(t[0]=[f("按钮元素")])),_:1},512)])}}});export{m as default};
