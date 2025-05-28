@@ -1,1 +1,0 @@
-import{d as n,c as t,o as a,e as o}from"./index-CMsPxZ_K.js";const d=n({name:"tabFixed",__name:"index",setup(r){return(s,e)=>(a(),t("div",null,e[0]||(e[0]=[o("h4",null,"tab固定",-1)])))}});export{d as default};

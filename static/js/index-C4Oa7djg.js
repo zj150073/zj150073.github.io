@@ -1,0 +1,1 @@
+import{d as s,aV as n,c as o,o as t}from"./index-CRBBsR8x.js";const u=s({__name:"index",setup(a){const e=n(()=>{$ajmerMessage("函数防抖",{customClass:"el",type:"success"})},1e3);return window.addEventListener("resize",e),(c,r)=>(t(),o("div",null,"函数防抖:请拉动浏览器大小"))}});export{u as default};

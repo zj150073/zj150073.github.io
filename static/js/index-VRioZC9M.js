@@ -1,0 +1,1 @@
+import{d as l,aW as r,c as u,o as p,e,B as s,u as a}from"./index-CRBBsR8x.js";const m=l({__name:"index",setup(c){const{x:o,y:t}=r();return(i,n)=>(p(),u("div",null,[n[0]||(n[0]=e("h4",null,"鼠标位置",-1)),e("p",null,"x:"+s(a(o)),1),e("p",null,"y:"+s(a(t)),1)]))}});export{m as default};

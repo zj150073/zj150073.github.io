@@ -1,0 +1,1 @@
+import{aX as s,c as n,o,e as t,B as r,u as l,F as u}from"./index-CRBBsR8x.js";const m={__name:"index",setup(p){const a=s();return(c,e)=>(o(),n(u,null,[e[0]||(e[0]=t("p",null,"一段供鼠标选择的文字",-1)),t("p",null,"被鼠标选择的文字是："+r(l(a).text),1)],64))}};export{m as default};
