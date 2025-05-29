@@ -2,7 +2,7 @@
   "responsiveStorageNameSpace": "ajmer-",
   "locale": "zh",
   "layout": "vertical",
-  "theme": "saucePurple",
+  "theme": "default",
   "darkMode": false,
   "sidebarStatus": false,
   "epThemeColor": "#409EFF",

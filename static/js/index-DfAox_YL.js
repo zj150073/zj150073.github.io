@@ -1,1 +1,0 @@
-import{aX as a,c as n,o,e as t,B as l,u as r}from"./index-Bz8jSHA3.js";const i={__name:"index",setup(u){const s=a();return(p,e)=>(o(),n("div",null,[e[0]||(e[0]=t("p",null,"一段供鼠标选择的文字",-1)),t("p",null,"被鼠标选择的文字是："+l(r(s).text),1)]))}};export{i as default};
