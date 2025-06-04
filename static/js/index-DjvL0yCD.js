@@ -1,1 +1,0 @@
-import{d as l,bi as r,c as u,o as p,e,B as s,u as o}from"./index-BuUfABzW.js";const m=l({__name:"index",setup(i){const{x:t,y:a}=r();return(c,n)=>(p(),u("div",null,[n[0]||(n[0]=e("h4",null,"鼠标位置",-1)),e("p",null,"x:"+s(o(t)),1),e("p",null,"y:"+s(o(a)),1)]))}});export{m as default};

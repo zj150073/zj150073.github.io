@@ -1,1 +1,0 @@
-import{d as t,c as r,o as u,e as a,g as n,B as o,u as s,be as i,bf as l}from"./index-BuUfABzW.js";const m=t({__name:"index",setup(d){return(p,e)=>(u(),r("div",null,[e[0]||(e[0]=a("h3",null,"生成uuid",-1)),n(" "+o(s(i)())+" ",1),e[1]||(e[1]=a("h3",null,"生成带前缀的uuid",-1)),n(" "+o(s(l)("prefix")),1)]))}});export{m as default};

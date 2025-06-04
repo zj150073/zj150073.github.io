@@ -22,6 +22,7 @@
   "version": "0.0.1",
   "keepAlive": true,
   "cachingAsyncRoutes": false,
+  "pagePermissions": true,
   "tooltipEffect": "light",
   "maxTagsLevel": 99,
   "title": "前端架构"

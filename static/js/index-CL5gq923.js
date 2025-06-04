@@ -1,0 +1,1 @@
+import{m as r,c as n,o as t,e as a,x as c,u as s}from"./index-BRSvTpE-.js";const m={viewBox:"0 0 24 24",width:"1.2em",height:"1.2em"};function i(o,e){return t(),n("svg",m,e[0]||(e[0]=[a("path",{fill:"currentColor",d:"M10 20v-6h4v6h5v-8h3L12 3L2 12h3v8z"},null,-1)]))}const h=r({name:"mdi-home",render:i}),_={__name:"index",setup(o){return(e,l)=>(t(),c(s(h)))}};export{_ as default};

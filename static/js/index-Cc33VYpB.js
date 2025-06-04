@@ -1,0 +1,1 @@
+import{bl as n,c as a,o as l,e as t,C as o,u as r}from"./index-BRSvTpE-.js";const i={__name:"index",setup(u){const s=n();return(p,e)=>(l(),a("div",null,[e[0]||(e[0]=t("p",null,"一段供鼠标选择的文字",-1)),t("p",null,"被鼠标选择的文字是："+o(r(s).text),1)]))}};export{i as default};

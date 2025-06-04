@@ -1,0 +1,1 @@
+import{d as s,bj as n,c as o,o as t}from"./index-BRSvTpE-.js";const u=s({__name:"index",setup(c){const e=n(()=>{$ajmerMessage("函数防抖",{customClass:"el",type:"success"})},1e3);return window.addEventListener("resize",e),(a,r)=>(t(),o("div",null,"函数防抖:请拉动浏览器大小"))}});export{u as default};
